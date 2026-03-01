@@ -20,7 +20,7 @@ I built Orion because ever since I started rocketry in 4th grade, I’ve been in
 | Edge-Launch SMA   | Adafruit     | $2.50        | 1              |
 | PCB               | JLCPCB       | $2.00        | 5              |
 
-#Main Flight Computer BOM
+# Main Flight Computer BOM
 | Product Name                  | Product Link | Product Cost | Product Amount |
 | ----------------------------- | ------------ | ------------ | -------------- |
 | Raspberry Pi Pico             | Adafruit     | $4.00        | 1              |
@@ -37,3 +37,5 @@ I built Orion because ever since I started rocketry in 4th grade, I’ve been in
 | Antenna - 2dBi                | Adafruit     | $5.95        | 1              |
 | Edge-Launch SMA               | Adafruit     | $2.50        | 1              |
 | PCB                           | JLCPCB       | $6.20        | 5              |
+
+Total Cost for all $128.4
