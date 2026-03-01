@@ -12,30 +12,36 @@ I built Orion because ever since I started rocketry in 4th grade, I’ve been in
 <img width="1521" height="762" alt="Screenshot 2026-03-01 at 1 56 41 AM" src="https://github.com/user-attachments/assets/0e059c54-848a-43b9-b6bf-9c7952376262" />
 
 # Ground Station BOM
-| Product Name      | Product Link | Product Cost | Product Amount |
-| ----------------- | ------------ | ------------ | -------------- |
-| Raspberry Pi Pico | Adafruit     | $4.00        | 1              |
-| Adafruit RFM95W   | Adafruit     | $19.95       | 1              |
-| Antenna - 2dBi    | Adafruit     | $5.95        | 1              |
-| Edge-Launch SMA   | Adafruit     | $2.50        | 1              |
-| PCB               | JLCPCB       | $2.00        | 5              |
-
+| Product Name            | Product Link | Product Cost | Product Amount | Total Price |
+| ----------------------- | ------------ | ------------ | -------------- | ----------- |
+| Raspberry Pi Pico       | Adafruit     | $4.00        | 1              | $4.00       |
+| Adafruit RFM95W         | Adafruit     | $19.95       | 1              | $19.95      |
+| Antenna - 2dBi          | Adafruit     | $5.95        | 1              | $5.95       |
+| Edge-Launch SMA         | Adafruit     | $2.50        | 1              | $2.50       |
+| PCB                     | JLCPCB       | $2.00        | 5              | $2.00       |
+| Ground Station Subtotal |              |              |                | $34.40      |
 # Main Flight Computer BOM
-| Product Name                  | Product Link | Product Cost | Product Amount |
-| ----------------------------- | ------------ | ------------ | -------------- |
-| Raspberry Pi Pico             | Adafruit     | $4.00        | 1              |
-| LSM6DSO32                     | Already have | $0.00        | 1              |
-| BMP390                        | Already have | $0.00        | 1              |
-| Flash                         | Already have | $0.00        | 1              |
-| Adafruit Ultimate GPS         | Adafruit     | $29.95       | 1              |
-| GPS Antenna - External Active | Adafruit     | $21.50       | 1              |
-| SMA to uFL                    | Adafruit     | $3.95        | 1              |
-| 3v reg (sensors/pico)         | Already have | $0.00        | 1              |
-| 5v reg (for servo)            | Already have | $0.00        | 1              |
-| Terminal blocks               | Already have | $0.00        | 1              |
-| Adafruit RFM95W               | Adafruit     | $19.95       | 1              |
-| Antenna - 2dBi                | Adafruit     | $5.95        | 1              |
-| Edge-Launch SMA               | Adafruit     | $2.50        | 1              |
-| PCB                           | JLCPCB       | $6.20        | 5              |
+| Product Name                  | Product Link | Product Cost | Product Amount | Total Price |
+| ----------------------------- | ------------ | ------------ | -------------- | ----------- |
+| Raspberry Pi Pico             | Adafruit     | $4.00        | 1              | $4.00       |
+| LSM6DSO32                     | Already have | $0.00        | 1              | $0.00       |
+| BMP390                        | Already have | $0.00        | 1              | $0.00       |
+| Flash                         | Already have | $0.00        | 1              | $0.00       |
+| Adafruit Ultimate GPS         | Adafruit     | $29.95       | 1              | $29.95      |
+| GPS Antenna - External Active | Adafruit     | $21.50       | 1              | $21.50      |
+| SMA to uFL                    | Adafruit     | $3.95        | 1              | $3.95       |
+| 3v reg (sensors/pico)         | Already have | $0.00        | 1              | $0.00       |
+| 5v reg (for servo)            | Already have | $0.00        | 1              | $0.00       |
+| Terminal blocks               | Already have | $0.00        | 1              | $0.00       |
+| Adafruit RFM95W               | Adafruit     | $19.95       | 1              | $19.95      |
+| Antenna - 2dBi                | Adafruit     | $5.95        | 1              | $5.95       |
+| Edge-Launch SMA               | Adafruit     | $2.50        | 1              | $2.50       |
+| PCB                           | JLCPCB       | $6.20        | 5              | $6.20       |
+| Main Subtotal                 |              |              |                | $94.00      |
 
-Total Cost for all $128.4
+| Section        | Subtotal | Notes                                  |
+|----------------|----------|----------------------------------------|
+| Ground Station | $34.40   | Includes PCBs: 5 for $2 total         |
+| Main           | $94.00   | Includes PCBs: 5 for $6.20 total      |
+| **Grand Total**| **$128.40** | Excludes parts you already own (cost = $0) |
+
