@@ -1,0 +1,55 @@
+newmtl mtl1
+Ka 0.62 0.62 0.36
+Kd 0.62 0.62 0.36
+Ks 0.00 0.00 0.00
+endmtl
+newmtl mtl2
+Ka 0.20 0.20 0.20
+Kd 0.20 0.20 0.20
+Ks 0.25 0.25 0.25
+endmtl
+newmtl mtl3
+Ka 0.80 0.80 0.80
+Kd 0.80 0.80 0.80
+Ks 1.00 1.00 1.00
+endmtl
+newmtl mtl4
+Ka 0.79 0.82 0.93
+Kd 0.79 0.82 0.93
+Ks 0.40 0.41 0.47
+endmtl
+newmtl mtl5
+Ka 0.96 0.96 0.95
+Kd 0.96 0.96 0.95
+Ks 0.48 0.48 0.48
+endmtl
+newmtl mtl6
+Ka 0.96 0.90 0.65
+Kd 0.96 0.90 0.65
+Ks 0.48 0.45 0.33
+endmtl
+newmtl mtl7
+Ka 0.75 0.75 0.75
+Kd 0.75 0.75 0.75
+Ks 0.38 0.38 0.38
+endmtl
+newmtl mtl8
+Ka 0.63 0.63 0.63
+Kd 0.63 0.63 0.63
+Ks 0.31 0.31 0.31
+endmtl
+newmtl mtl9
+Ka 0.90 0.92 0.93
+Kd 0.90 0.92 0.93
+Ks 0.45 0.46 0.47
+endmtl
+newmtl mtl10
+Ka 0.80 0.80 0.80
+Kd 0.80 0.80 0.80
+Ks 0.40 0.40 0.40
+endmtl
+newmtl mtl11
+Ka 0.80 0.82 0.94
+Kd 0.80 0.82 0.94
+Ks 0.40 0.41 0.47
+endmtl
