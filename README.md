@@ -10,3 +10,30 @@ I built Orion because ever since I started rocketry in 4th grade, I’ve been in
 <img width="353" height="761" alt="Screenshot 2026-03-01 at 1 56 29 AM" src="https://github.com/user-attachments/assets/4f232747-7d8f-47d6-9719-353b2c10f9f3" />
 
 <img width="1521" height="762" alt="Screenshot 2026-03-01 at 1 56 41 AM" src="https://github.com/user-attachments/assets/0e059c54-848a-43b9-b6bf-9c7952376262" />
+
+# Ground Station BOM
+| Product Name      | Product Link | Product Cost | Product Amount |
+| ----------------- | ------------ | ------------ | -------------- |
+| Raspberry Pi Pico | Adafruit     | $4.00        | 1              |
+| Adafruit RFM95W   | Adafruit     | $19.95       | 1              |
+| Antenna - 2dBi    | Adafruit     | $5.95        | 1              |
+| Edge-Launch SMA   | Adafruit     | $2.50        | 1              |
+| PCB               | JLCPCB       | $2.00        | 5              |
+
+#Main Flight Computer BOM
+| Product Name                  | Product Link | Product Cost | Product Amount |
+| ----------------------------- | ------------ | ------------ | -------------- |
+| Raspberry Pi Pico             | Adafruit     | $4.00        | 1              |
+| LSM6DSO32                     | Already have | $0.00        | 1              |
+| BMP390                        | Already have | $0.00        | 1              |
+| Flash                         | Already have | $0.00        | 1              |
+| Adafruit Ultimate GPS         | Adafruit     | $29.95       | 1              |
+| GPS Antenna - External Active | Adafruit     | $21.50       | 1              |
+| SMA to uFL                    | Adafruit     | $3.95        | 1              |
+| 3v reg (sensors/pico)         | Already have | $0.00        | 1              |
+| 5v reg (for servo)            | Already have | $0.00        | 1              |
+| Terminal blocks               | Already have | $0.00        | 1              |
+| Adafruit RFM95W               | Adafruit     | $19.95       | 1              |
+| Antenna - 2dBi                | Adafruit     | $5.95        | 1              |
+| Edge-Launch SMA               | Adafruit     | $2.50        | 1              |
+| PCB                           | JLCPCB       | $6.20        | 5              |
