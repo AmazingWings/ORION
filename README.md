@@ -43,9 +43,9 @@ I built Orion because ever since I started rocketry in 4th grade, I’ve been in
 
 # Total price
 
-| Section        | Subtotal | Notes                                  |
-|----------------|----------|----------------------------------------|
-| Ground Station | $34.40   | Includes PCBs: 5 for $2 total         |
-| Main           | $94.00   | Includes PCBs: 5 for $6.20 total      |
-| **Grand Total**| **$128.40** | Excludes parts you already own (cost = $0) |
+| Category                    | Value      |
+|----------------------------|------------|
+| Parts subtotal (BOM)       | $128.40    |
+| All shipping + taxes total | $64.44     |
+| **Total project cost**     | **$192.84** |
 
