@@ -1,8 +1,8 @@
 # ORION
-This is the Orion Flight System. It features a ground station and a light controller linked together to transmit telemetry, monitor the rocket’s status, and perform active control and data logging.
+Orion is a custom rocket flight system. It includes a ground station and a flight controller that work together to transmit telemetry, monitor the rocket’s status, and perform active control and data logging during flight.
 
-#How
-Inorder to use this it will be connectted to a laptop and one must have proceesing ide downlaoded for th euI and essentialy thouhg programming on platofmr io anfor hte main board and the groundstation you can contorl the and checj the rockets current state. Like wether or notto put into launch mode test servos read raw data calibrate and etc. 
+# How to use?
+To use Orion, you connect the ground station to a laptop. The UI runs in the Processing IDE, and the main board plus ground station firmware is written and uploaded using PlatformIO. From the interface, you can see the rocket’s current state, switch between modes (for example, test and launch), command servo tests, read raw sensor data, and run calibration routines.
 
-#Why?
-I made this becaue since i began rocketrin 4th grade I was inspiure by how spacex controlled their rockts and how you cna see it live how its peforming and get data live and not right after the flight. 
+# Why?
+I built Orion because ever since I started rocketry in 4th grade, I’ve been inspired by how SpaceX monitors and controls their rockets in real time. I wanted a similar system for my own launches, where I can see how the rocket is performing live, get data during the flight, and not just read everything after recovery.
