@@ -1,0 +1,23 @@
+GROUND ,STATION,,,,,,
+Product Name,,Product link,,,Product Cost,,Product Amount
+Raspberry Pi Pico,,https://www.adafruit.com/product/4864,,,4,,1
+Adafruit RFM95W,,https://www.adafruit.com/product/3072,,,19.95,,1
+Antenna - 2dBi,,https://www.adafruit.com/product/1858,,,5.95,,1
+Edge-Launch SMA,,https://www.adafruit.com/product/1865,,,2.5,,1
+PCB,,https://jlcpcb.com/,,,2,,5
+MAIN,,,,,,,
+Raspberry Pi Pico,,https://www.adafruit.com/product/4864,,,4,,1
+LSM6DSO32,,,,,0(I already have some),,1
+BMP390,,,,,0(I already have some),,1
+Flash,,,,,0(I already have some),,1
+Adafruit Ultimate GPS,,https://www.adafruit.com/product/5440,,,29.95,,1
+GPS Antenna - External Active Antenna,,https://www.adafruit.com/product/960,,,21.5,,1
+SMA to uFL,,https://www.adafruit.com/product/851,,,3.95,,1
+3v reg(sensors/pico),,,,,0(I already have some),,1
+5v(for servo),,,,,0(I already have some),,1
+terminal blocks,,,,,0(I already have some),,1
+Adafruit RFM95W,,https://www.adafruit.com/product/3072,,,19.95,,1
+Antenna - 2dBi,,https://www.adafruit.com/product/1858,,,5.95,,1
+Edge-Launch SMA,,https://www.adafruit.com/product/1865,,,2.5,,1
+PCB,,https://jlcpcb.com/,,,6.2,,5
+,,,,Total Cost,128.4,,
